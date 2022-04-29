@@ -1,0 +1,19 @@
+name: flutter_utils_code
+description: A Flutter utils package
+version: 0.0.8
+#author: Mr.pan <panzhoutao1@gmail.com>
+homepage: https://github.com/panzhoutao/flutter_utils_code
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
